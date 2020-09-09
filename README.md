@@ -12,9 +12,10 @@
         <img align="center" src="https://img.shields.io/badge/trent%40kablekompany.com-blue?style=for-the-badge&logo=gmail" />
     </a>
 <br/>
+    </p>
+<a href="https://kable.lol/discord">
+<img src="https://img.shields.io/badge/Discord-KableKompany%230001-7289DA?logo=discord&style=for-the-badgel" />
+    </a>
     <h4>
            Kontent Matters, Dev Shit Matters
     </h4>
-    <a href="https://kable.lol/discord">
-        <img align="center" src="https://img.shields.io/badge/Discord-KableKompany%230001-7289DA?logo=discord&style=for-the-badgel" />
-    </a>
