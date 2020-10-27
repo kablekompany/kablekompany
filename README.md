@@ -14,9 +14,8 @@
     </a>
 <br/>
     </p>
-<h4>
-   Kontent Matters, Dev Shit Matters
-</h4>
+
+<strong>Kontent Matters, Dev Shit Matters</strong>
 <a href="https://kable.lol/discord">
 <img src="https://img.shields.io/badge/Discord-KableKompany%230001-7289DA?logo=discord&style=for-the-badgel" />
 </a>
