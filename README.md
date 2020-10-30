@@ -1,20 +1,16 @@
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kablekompany&show_icons=true&layout=compact&theme=dark&count_private=true" />
-    </a>
-</p></br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kablekompany&theme=dark" alt="kablekompany" /></a> </p>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kablekompany&show_icons=true&layout=compact&theme=dark&count_private=true" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kablekompany&theme=dark" alt="kablekompany" /></a>
+</p>
 </br>
-<!--    </br>
-<img align="center" width="500" height="250" src="https://wakatime.com/share/@b1ad8c68-4740-4b7e-95c5-94bfa096406e/9745131b-5399-4d10-bd36-b52be6869bf0.svg" /> -->
-<!--</br>-->
 
-<h3 align="left">Contact:</h3>
-<p align="left"><a href="https://kable.lol/discord"><img src="https://img.shields.io/badge/Discord-KableKompany%230001-7289DA?logo=discord&style=for-the-badgel" /></a></p>
-<p align="left"><a href="mailto:trent@kablekompany.com"><img src="https://img.shields.io/badge/trent%40kablekompany.com-blue?style=for-the-badge&logo=gmail" /></a></p>
-<p align="left"><a href="https://twitter.com/kablekompany" target="blank"><img src="https://img.shields.io/twitter/follow/kablekompany?logo=twitter&style=for-the-badge" alt="kablekompany" /></a></p></br>
-<p align="left"><a href="https://github.com/anuraghazra/github-readme-stats"><img width="500" src="https://github-readme-stats.vercel.app/api?username=kablekompany&show_icons=true&theme=dark&count_private=true" /></a></p></br>
+<p align="left">
+<h3>Contact:</h3>
+<a href="mailto:trent@kablekompany.com"><img src="https://img.shields.io/badge/trent%40kablekompany.com-blue?style=for-the-badge&logo=gmail" /></a>
+<a href="https://twitter.com/kablekompany" target="blank"><img src="https://img.shields.io/twitter/follow/kablekompany?logo=twitter&style=for-the-badge" alt="kablekompany" /></a></br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="500" src="https://github-readme-stats.vercel.app/api?username=kablekompany&show_icons=true&theme=dark&count_private=true" /></a></br>
+<a href="https://kable.lol/discord"><img src="https://img.shields.io/badge/Discord-KableKompany%230001-7289DA?logo=discord&style=for-the-badgel" /></a>
+</p>
 </br>
 </br>
 
